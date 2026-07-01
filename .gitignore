@@ -1,0 +1,16 @@
+#Bo qua cac file log va command cua Innovus
+*.log
+*.cmd
+*.logv
+*.cmdv
+innovus.cmd*
+innovus.log*
+
+#Bo qua database luu tru nang
+*.enc/
+*.enc.dat/
+
+#Bo qua cac file rac va backup khac
+*.bak
+*rsv/
+.cadence/
