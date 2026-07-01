@@ -25,7 +25,7 @@ Dự án thực hiện luồng thiết kế vật lý (Physical Design) cho lõi
 - **Phân tích:** 
   - Mật độ lõi (Core Density): `... %`
   - Tình trạng IR Drop dự kiến: `...`
-  - Link ảnh báo cáo: `[Chèn link ảnh /reports/1_floorplan/density.png vào đây]`
+  - Link ảnh báo cáo: ![Density Map](reports/1_floorplan/DensityMap.png)
 
 ### 2. Placement
 - **Mục tiêu:** Sắp xếp các Standard Cells.
